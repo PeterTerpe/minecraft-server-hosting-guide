@@ -5,8 +5,7 @@
 欢迎任何有服务器管理经验的人前来贡献！贡献项目请Fork，请为每个更改撰写合适的描述，完成更改后请求Pull Request合并到main。
 
 QQ交流群：910873578<br>
-如果文档中有任何问题，欢迎发issue或pr指正！
-
-项目预计会有5名collaborator，每个对main的PR需要除作者以外的两人进行review，尽量降低main分支出错的可能。
+如果文档中有任何问题，欢迎发Issue或PR指正！<br>
+项目预计会有5名Collaborator，每个对main的PR需要除作者以外的两人进行review，尽量降低main分支出错的可能。
 
 请前往[目录](./目录.md)查看内容索引
